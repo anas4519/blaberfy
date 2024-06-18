@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708188376121",
+    "project_id": "blaberfy-14b59",
+    "storage_bucket": "blaberfy-14b59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708188376121:android:ead1da89bc83e06ba4d1e8",
+        "android_client_info": {
+          "package_name": "com.example.blabberfy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5ttExEHfaBrp_wQVtk8k1wtpwFhA7kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
